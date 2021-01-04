@@ -12,7 +12,6 @@ import com.devsuperior.dsdelivery.entities.OrderStatus;
 public class OrderDTO implements Serializable {
 
 	private static final long serialVersionUID = 1L;
-	
 	private Long id;
 	private String address;
 	private Double latitude;
